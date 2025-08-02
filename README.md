@@ -1,4 +1,5 @@
-# Airbnb Property Listing Web App
+# Next.js Project Setup and Basics.
+## Airbnb Property Listing Web App
 
 ## 🏠 Overview
 
