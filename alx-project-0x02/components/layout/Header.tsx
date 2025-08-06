@@ -4,9 +4,9 @@ import Link from "next/link";
 const Header: React.FC = () => {
   return (
     <header className="bg-blue-600 text-white shadow-md py-4">
-      <div className="container mx-auto flex justify-between items-center px-4">
-        <nav className="flex space-x-6">
-          <ul>
+      <div className="container mx-auto px-4">
+        <nav>
+          <ul className="flex flex-row space-x-6">
             <li>
               <Link href="/home">Home</Link>
             </li>
